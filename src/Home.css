@@ -1,0 +1,11 @@
+.background{
+    /* margin-top: 10px;
+    margin-bottom: 30px; */
+    width: 99vw;
+    height: 90vh;
+    background-image:url('assets/pexels-vladyslav-dukhin-296649.jpg');
+    background-repeat: no-repeat;
+    background-position: top;
+    background-size: cover;
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
